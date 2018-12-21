@@ -83,11 +83,11 @@
     <Compile Include="BuisinessLogic\NewEmployee.cs" />
     <Compile Include="BuisinessLogic\NewForm.cs" />
     <Compile Include="BuisinessObject\Employee.cs" />
-    <Compile Include="Pages\AnketaPage.cs" />
+    <Compile Include="Steps\FillFormSteps.cs" />
+    <Compile Include="Pages\FormPage.cs" />
     <Compile Include="Pages\IndexPage.cs" />
-    <Compile Include="Steps\CreateNewFormSteps.cs" />
     <Compile Include="TestData\EmployeesCreator.cs" />
-    <Compile Include="Tests\UnitTest1.cs" />
+    <Compile Include="Tests\UnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
